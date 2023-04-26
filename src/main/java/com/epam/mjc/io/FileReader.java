@@ -25,7 +25,7 @@ public class FileReader {
                         age = Integer.parseInt(parts[1].trim());
                         break;
                     case "Email":
-                        email =parts[1].trim();
+                        email = parts[1].trim();
                         break;
                     case "Phone":
                         phone = Long.parseLong(parts[1].trim());

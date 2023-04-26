@@ -2,7 +2,7 @@ package com.epam.mjc.io;
 
 import java.util.Objects;
 
-public class Profile{
+public class Profile {
 
     private String name;
     private Integer age;
@@ -12,6 +12,7 @@ public class Profile{
     public Profile() {
 
     }
+
     public Profile(String name, Integer age, String email, Long phone) {
         this.name = name;
         this.age = age;
