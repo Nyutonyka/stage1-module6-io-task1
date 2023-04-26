@@ -35,7 +35,7 @@ public class FileReader {
             ex.printStackTrace();
         }
 
-        System.out.println(profile);
+      // System.out.println(profile);
         return profile;
     }
 }

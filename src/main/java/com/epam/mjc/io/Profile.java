@@ -1,6 +1,5 @@
 package com.epam.mjc.io;
 
-import java.io.Serializable;
 import java.util.Objects;
 
 public class Profile{
